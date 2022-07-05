@@ -1,0 +1,20 @@
+{
+  "files": {
+    "f.env": [
+      {
+        "id": "c251ee06-bf24-4ca0-af36-a4e6aa9eed15",
+        "line": 1,
+        "version": 9,
+        "index": 0
+      }
+    ],
+    "main.py": [
+      {
+        "id": "501e3281-7a82-4062-b985-24db8cf28994",
+        "line": 2,
+        "version": 513,
+        "index": 15
+      }
+    ]
+  }
+}
